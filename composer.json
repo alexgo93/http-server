@@ -2,8 +2,8 @@
     "name": "alexgo93/http-server",
     "description": "php http-server",
     "keywords": [
-        "brain_game",
-        "game"
+        "server",
+        "http"
     ],
     "type": "project",
     "license": "MIT",
