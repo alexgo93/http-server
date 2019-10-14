@@ -4,5 +4,4 @@
 require_once __DIR__ . '/../vendor/autoload.php';
 
 $server = new Server\src\Server\Server();
-print_r($server);
 $server->serverStart();

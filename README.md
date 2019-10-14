@@ -12,4 +12,5 @@ Simple http-server
 
 # Usage
 run ./bin/server-up
+
 after doing get-request on 'localhost' you' ll see the index.html from "/bin" directory
